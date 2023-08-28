@@ -4,8 +4,6 @@ import java.util.Set;
 
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
-import com.mani.labs.PlayClient;
 import com.mani.labs.PlayList;
 import com.mani.labs.SongsApp;
 
