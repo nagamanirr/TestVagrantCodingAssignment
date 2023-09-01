@@ -8,9 +8,9 @@ It should also be able to fetch recently played songs based on the user and elim
 Illustration, when 4 different songs were played by a user & Initial capacity is 3:<br> 
 Let's assume that the user has played 3 songs - S1, S2 and S3.<br>
 The playlist would look like -> S1,S2,S3<br>
-When S4 song is played -> S2,S3,#S4 <br>
-When S2 song is played -> S3,S4,#S2<br> 
-When S1 song is played -> S4,S2,#S1<br>
+When S4 song is played -> S2,S3,<b>S4</b> <br>
+When S2 song is played -> S3,S4,<b>S2,</b><br> 
+When S1 song is played -> S4,S2,<b>S1</b><br>
 
 <b>#Solution:<br> </b>
 This solution has three files <br>
